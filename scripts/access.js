@@ -83,7 +83,7 @@ const applyAccessFor = function (address) {
                 const filteredBots = obj.filter(
                   (e) =>
                     e.collection ===
-                    "0x3e063afa1d0d4bc154d6de98d1093cf55415b146"
+                    "0x730bc88f5f98f1448eb2f5acdf1b32ffe6f27bc0"
                 );
                 console.log("filteredBots", filteredBots);
                 if (filteredBots.length > 0) {
